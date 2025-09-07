@@ -122,11 +122,6 @@ export function WebsiteFooter() {
                     Tuyển dụng
                   </a>
                 </li>
-                <li>
-                  <a href="#" className="hover:text-white transition-colors">
-                    Đăng nhập/Đăng ký
-                  </a>
-                </li>
               </ul>
             </div>
 

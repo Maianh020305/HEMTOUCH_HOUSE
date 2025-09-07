@@ -133,7 +133,7 @@ export function CompanyInfo() {
               <div className="space-y-2 text-sm">
                 <div className="flex items-center gap-2">
                   <MapPin className="w-4 h-4 text-muted-foreground" />
-                  <span>123 Đường Nguyễn Huệ, Quận 1, TP.HCM</span>
+                  <span>146/20 Võ Thị Sáu, Quận 3, TP.HCM</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Phone className="w-4 h-4 text-muted-foreground" />
@@ -141,7 +141,7 @@ export function CompanyInfo() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Clock className="w-4 h-4 text-muted-foreground" />
-                  <span>24/7 - Phục vụ cả tuần</span>
+                  <span>07:00 - 22:00 - Phục vụ cả tuần</span>
                 </div>
               </div>
               <div className="flex flex-wrap gap-2">

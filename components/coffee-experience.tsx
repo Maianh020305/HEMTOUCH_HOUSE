@@ -81,7 +81,7 @@ export function CoffeeExperience() {
             </CardHeader>
           </Card>
         ))}
-      </div>g
+      </div>
     </section>
   )
 }
